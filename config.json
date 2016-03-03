@@ -1,0 +1,7 @@
+{
+    "name": "JS 函数式编程",
+    "introduction": "如何使用 JavaScript 这个世界上最流行的函数式编程语言。",
+    "path" : {
+    "toc" : "SUMMARY.md"
+    }
+}
